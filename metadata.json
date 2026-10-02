@@ -1,0 +1,6 @@
+{
+  "name": "Supermarket Power BI Analytics College Project Suite",
+  "description": "Comprehensive college data analytics project: interactive Power BI dashboard simulator, Kaggle/Walmart retail dataset, DAX measures library, downloadable project files (.pbix template, .csv, viva guide, documentation), and Gemini AI BI analyst.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
